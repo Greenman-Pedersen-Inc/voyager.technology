@@ -16,7 +16,7 @@
     "fastify-compress": "^0.8.1",
     "fastify-cors": "^2.1.2",
     "fastify-postgres": "^2.0.0",
-    "fastify-static": "^4.2.4",
+    "fastify-static": "^4.4.1",
     "fastify-swagger": "^2.3.2",
     "pg": "^7.9.0"
   }
